@@ -1,0 +1,2 @@
+# Advanced-TCP-Chatroom
+This is a Python-based Secure Chat room with sophisticated features. The entire project is based on socket programming and is written in Python. Clients are made to connect to the server, which is then promoted to enter a nickname, following which the server is set to listening mode with a certain IP Address and Port number. The messages are then sent out to all of the clients who are present.
